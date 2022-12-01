@@ -85,7 +85,7 @@ span.loginlogo,span.logintext{
 }
 
 .aboutpage{
-  background-image: url("/model-3211627__340.webp");
+  background-image: url("model-3211627__340.webp");
   background-size: 100%;
   color: white;
 }
@@ -122,7 +122,7 @@ div.batches{
   height: 800px;
   background-color: white;
   background-repeat: no-repeat;
-  background-image: url("/gray-empty-room-studio-.jpg");
+  background-image: url("gray-empty-room-studio-.jpg");
   background-size: 100%;
 }
 
